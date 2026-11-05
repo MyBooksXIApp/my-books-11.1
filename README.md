@@ -5,13 +5,13 @@
 
 Thank you for choosing My Books! Whether you are joining us for the first time or bringing your books forward from an earlier version, we are excited to share everything we have built. Make yourself at home.
 
-**[Download My Books 11.1 →](https://github.com/MyBooksXIApp/my-books-11.1/releases/latest)** · **[User Guide & release files](https://github.com/MyBooksXIApp/my-books-11.1/releases/latest)** · **[Contact Jeremy](mailto:MyBooks11App@gmail.com)**
+**[Download My Books 11.1 Installer →](https://github.com/MyBooksXIApp/my-books-11.1/releases/download/v11.1/My.Books.11.1.Installer.exe)** · **[Download the PDF User Guide](https://github.com/MyBooksXIApp/my-books-11.1/releases/download/v11.1/My.Books.11.1.User.Guide.pdf)** · **[Contact Jeremy](mailto:MyBooks11App@gmail.com)**
 
 ---
 
 ## Get started
 
-1. Open the download page above and choose **My Books 11.1 Installer.exe** from the release assets.
+1. Download the installer using the link above. GitHub names the download **My.Books.11.1.Installer.exe**.
 2. Run the installer and choose whether you are new to My Books or coming from an older version.
 3. Open My Books and explore the Demo Account, create your own profile, or import your backup.
 4. For a new profile, start in **My Calendar**: set up your paychecks and periods first. Then build out your funds, bills, credit, budget, and savings goals.
@@ -58,7 +58,7 @@ Keep regular **.aas backups** and store your recovery key somewhere safe. See th
 
 ## Downloads and verification
 
-The release includes the Windows installer, the PDF user guide, and **SHA256SUMS.txt** for verifying the installer file. This repository is the distribution and information page for 11.1.
+The release includes the Windows installer, the PDF user guide, and **SHA256SUMS.txt** for verifying the installer file. [View all release files and checksums](https://github.com/MyBooksXIApp/my-books-11.1/releases/tag/v11.1). This repository is the distribution and information page for 11.1; GitHub’s automatic source archives contain this page, not the Windows installer.
 
 ## Thank you
 
