@@ -70,3 +70,7 @@ Questions or feedback? **[MyBooks11App@gmail.com](mailto:MyBooks11App@gmail.com)
 
 Sincerely,  
 **Jeremy Kreider**
+## Terms of Service & Disclaimer
+Before downloading, please read the [Terms of Service & Disclaimer](TERMS.md) (version 1.0, November 6, 2026), also available on the [My Books website](https://mybooksxi.com/terms).
+My Books is a free passion project created by one individual, for informational and entertainment purposes only. It does not replace a financial adviser. Its security implementation has not been independently tested or audited by a third party. Verify important information and keep backups. The full document describes security methods, warranty exclusions, and liability limitations where permitted by law.
+For the download flow with an explicit terms agreement, [download through the official website](https://mybooksxi.com/download). Direct GitHub release downloads do not display that agreement popup.
